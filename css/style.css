@@ -1,0 +1,33 @@
+.body{
+    background: peru;
+}
+
+#display{
+    font-size: 4rem;
+    margin-left: 26%;
+    margin-top: 20px;
+    width: 100%;
+    align-items: flex-end;
+    border-radius: 50px;
+}
+
+#memory{
+    background: peru;
+    width: 100%;
+    display: none;
+}
+
+.numbers{
+    margin: 50px;
+}
+
+button{
+    background: gray;
+    color: white;
+    height: 60px;
+    border: 2px solid brown;
+}
+
+.operator{
+    background: rgb(192, 192, 50);
+}
